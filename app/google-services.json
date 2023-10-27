@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44313589120",
+    "project_id": "uploud-ds3t-carol",
+    "storage_bucket": "uploud-ds3t-carol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44313589120:android:172548b6c14fe2fd05fd65",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.api_livraria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwcLwzjuVbSCMe8_tQVmKtFLAIQkb_hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
